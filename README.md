@@ -5,7 +5,7 @@ Currently : BSc CS Student at the University of Ottawa.
 
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about anything
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: LinkedIn (www.linkedin.com/in/ghali-kinany-alaoui)
 - 😄 Pronouns: he/him
 
 # Skills:
