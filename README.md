@@ -1,4 +1,4 @@
-![tensorflow](https://github.com/user-attachments/assets/0043d0af-bc9e-4911-9cc7-785ba6f8a676)## Hey! 👋
+# Hey! 👋
 I'm Ghali Kinany Alaoui!
 
 Currently : BSc CS Student at the University of Ottawa.
@@ -8,7 +8,7 @@ Currently : BSc CS Student at the University of Ottawa.
 - 📫 How to reach me: LinkedIn (www.linkedin.com/in/ghali-kinany-alaoui)
 - 😄 Pronouns: he/him
 
-# Skills:
+## Skills:
 -  Machine Learning | Mobile and Web development | Databases
 
 
